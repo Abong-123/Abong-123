@@ -79,6 +79,29 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 
 ---
 
+## 💼 Freelance Services
+
+Butuh bantuan untuk membangun jaringan, sistem IoT, atau media visual? Saya menyediakan layanan freelance profesional untuk kebutuhan personal, UMKM, maupun bisnis kecil/menengah.
+
+🌐 **Network & Infrastructure**
+* **Setup Server:** Instalasi & konfigurasi OS server (Linux/Windows), manajemen penyimpanan, hardening keamanan, dan remote access.
+* **Pemasangan Jaringan:** Perancangan & instalasi LAN/Wi-Fi (rumah, café, kantor), router management (Cisco/MikroTik), serta optimasi koneksi.
+
+💻 **Software & Hardware Engineering**
+* **Frontend Development:** Pembuatan website modern, responsif, dan cepat (React, Next.js, Vue, Tailwind CSS).
+* **IoT Solutions:** Integrasi sensor, mikrokontroler (Arduino/ESP32/Raspberry Pi), dan dashboard monitoring berbasis web/app.
+
+🎨 **Creative & Visual Design**
+* **Media Promosi & Banner:** Desain grafis menarik untuk event, produk, media sosial, dan materi presentasi bisnis.
+* **Custom Digital Visuals:** Layanan visual branding dan kustomisasi aset digital sesuai kebutuhan.
+
+### 📩 Order & Discussion
+Masuk ke server Discord untuk berkonsultasi atau berdiskusi langsung mengenai kebutuhan proyek kamu:
+
+[![Join Discord Server](https://img.shields.io/badge/Join%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pq5faEjeK)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
