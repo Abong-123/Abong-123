@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abrar Wira</h1>
-<h3 align="center">Telecommunications Engineering Graduate | System Integration & Network Administration</h3>
+<h3 align="center">Telecommunications Engineering final-year student | System Integration & Network Administration</h3>
 
 <p align="center">
 Driven by practical problem-solving across infrastructure and data workflows. Experienced in implementing basic DevOps pipelines and leveraging the Python language for a wide range of needs.
