@@ -98,7 +98,7 @@ Butuh bantuan untuk membangun jaringan, sistem IoT, atau media visual? Saya meny
 ### 📩 Order & Discussion
 Masuk ke server Discord untuk berkonsultasi atau berdiskusi langsung mengenai kebutuhan proyek kamu:
 
-[![Join Discord Server](https://img.shields.io/badge/Join%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pq5faEjeK)
+[![Join Discord Server](https://img.shields.io/badge/Join%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mXZNhSmT3)
 
 ---
 
