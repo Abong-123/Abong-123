@@ -12,7 +12,7 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/mXZNhSmT3" target="_blank">
+  <a href="https://discord.com/users/mastersains" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/abrar_wira/" target="_blank">
