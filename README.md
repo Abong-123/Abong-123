@@ -28,56 +28,55 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 
 ---
 
+## 🎯 Core Skills
+
+1. **Network Engineering**  
+   Merancang dan mengelola infrastruktur jaringan dari skala kecil hingga enterprise, mencakup konfigurasi perangkat Cisco dan MikroTik, implementasi monitoring real-time, serta penerapan keamanan berlapis untuk memastikan ketersediaan dan integritas jaringan.
+
+2. **RF Engineering**  
+   Mendesain dan mengoptimalkan sistem antena dengan pemahaman mendalam tentang RX/TX, bandwidth, dan frekuensi. Terampil dalam site survey, pembuatan substrat, uji antena, serta analisis impedansi.
+
+3. **IoT Development**  
+   Mengembangkan solusi IoT berbasis mikrokontroler dengan integrasi sensor dan aktuator. Terampil dalam pemrograman menggunakan PlatformIO, MicroPython, dan Arduino IDE.
+
+4. **System Administration**  
+   Membangun dan memelihara lingkungan server yang stabil dan aman, mulai dari pemilihan sistem operasi, provisioning software, hingga penerapan monitoring proaktif dan kebijakan keamanan.
+
+5. **Backend Engineering**  
+   Merancang dan mengimplementasikan API yang andal untuk menghubungkan platform IoT maupun layanan web, memastikan komunikasi data yang cepat, aman, dan skalabel.
+
+---
+
 ## 💻 Tech Stack
 
 **Programming Language**
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+*Programming Languages**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Framework & Library**
+**Frameworks**  
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-</p>
+**DevOps & Infrastructure**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-**DevOps**
+**Tools & Environment**  
+![GNS3](https://img.shields.io/badge/GNS3-276DC3?style=for-the-badge&logo=gns3&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-000000?style=for-the-badge)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F68220?style=for-the-badge&logo=platformio&logoColor=white)
+![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-</p>
-
-**Data Management**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
-</p>
-
-**IoT**
-
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse_Mosquitto-3C5280?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white" />
-</p>
+**Operating Systems**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
