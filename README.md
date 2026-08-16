@@ -8,7 +8,7 @@
 <h3 align="center">Telecommunications Engineering Graduate | System Integration & Network Administration</h3>
 
 <p align="center">
-Driven by practical problem-solving across infrastructure and data workflows. Experienced in implementing basic DevOps pipelines and leveraging Python for data analytics.
+Driven by practical problem-solving across infrastructure and data workflows. Experienced in implementing basic DevOps pipelines and leveraging the Python language for a wide range of needs.
 </p>
 
 <p align="center">
@@ -33,7 +33,6 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 **Programming Language**
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
@@ -59,7 +58,6 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
@@ -94,12 +92,6 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
   <img src="https://streak-stats.demolab.com/?user=Abong-123&theme=transparent&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center"> 
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Abong-123&theme=transparent&no-frame=true&no-bg=true&margin-w=4" /> 
-</p>
-
 ## 👾 Contribution Graph
 
 <picture>
@@ -109,12 +101,6 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 </picture>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Abong-123&icon=2&color=0" />
-  </a>
-</p>
 
 <h3 align="center">💰 Support My Work</h3>
 
