@@ -31,51 +31,47 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 ## 🎯 Core Skills
 
 1. **Network Engineering**  
-   Merancang dan mengelola infrastruktur jaringan dari skala kecil hingga enterprise, mencakup konfigurasi perangkat Cisco dan MikroTik, implementasi monitoring real-time, serta penerapan keamanan berlapis untuk memastikan ketersediaan dan integritas jaringan.
+   Implementasi dan pemeliharaan infrastruktur jaringan, mencakup konfigurasi routing/switching serta sistem pemantauan (monitoring) untuk memastikan stabilitas konektivitas.
 
 2. **RF Engineering**  
-   Mendesain dan mengoptimalkan sistem antena dengan pemahaman mendalam tentang RX/TX, bandwidth, dan frekuensi. Terampil dalam site survey, pembuatan substrat, uji antena, serta analisis impedansi.
+   Perancangan dan pengujian kinerja antena, meliputi proses site survey, fabrikasi, serta evaluasi parameter frekuensi dan impedansi.
 
 3. **IoT Development**  
-   Mengembangkan solusi IoT berbasis mikrokontroler dengan integrasi sensor dan aktuator. Terampil dalam pemrograman menggunakan PlatformIO, MicroPython, dan Arduino IDE.
+   Pengembangan sistem otomasi berbasis mikrokontroler, memadukan pembacaan data lingkungan dengan kontrol perangkat keras untuk operasional sistem yang efisien.
 
 4. **System Administration**  
-   Membangun dan memelihara lingkungan server yang stabil dan aman, mulai dari pemilihan sistem operasi, provisioning software, hingga penerapan monitoring proaktif dan kebijakan keamanan.
-
-5. **Backend Engineering**  
-   Merancang dan mengimplementasikan API yang andal untuk menghubungkan platform IoT maupun layanan web, memastikan komunikasi data yang cepat, aman, dan skalabel.
+   Pengelolaan infrastruktur server, mulai dari instalasi, konfigurasi environment aplikasi, hingga pemeliharaan sistem dan keamanan operasional.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tools
 
-**Programming Language**
+**Daily**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Frameworks**  
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+**Network**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-000000?style=for-the-badge&logo=cacti&logoColor=white)
 
-**DevOps & Infrastructure**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+**Infrastructure**  
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-000000?style=for-the-badge&logo=hoppscotch&logoColor=white)
 
-**Tools & Environment**  
-![GNS3](https://img.shields.io/badge/GNS3-276DC3?style=for-the-badge&logo=gns3&logoColor=white)
-![Cacti](https://img.shields.io/badge/Cacti-000000?style=for-the-badge)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F68220?style=for-the-badge&logo=platformio&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-**Operating Systems**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+**IoT**  
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F6822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-2A7DB1?style=for-the-badge&logo=thingsboard&logoColor=white)
+![Eclipse Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
 ---
 
@@ -85,10 +81,10 @@ Butuh bantuan untuk membangun jaringan, sistem IoT, atau media visual? Saya meny
 
 🌐 **Network & Infrastructure**
 * **Setup Server:** Instalasi & konfigurasi OS server (Linux/Windows), manajemen penyimpanan, hardening keamanan, dan remote access.
-* **Pemasangan Jaringan:** Perancangan & instalasi LAN/Wi-Fi (rumah, café, kantor), router management (Cisco/MikroTik), serta optimasi koneksi.
+* **Pemasangan Jaringan:** Perancangan & instalasi LAN/Wi-Fi (rumah, café, kantor), router management, serta optimasi koneksi.
 
 💻 **Software & Hardware Engineering**
-* **Frontend Development:** Pembuatan website modern, responsif, dan cepat (React, Next.js, Vue, Tailwind CSS).
+* **Frontend Development:** Pembuatan website modern, responsif, dan cepat.
 * **IoT Solutions:** Integrasi sensor, mikrokontroler (Arduino/ESP32/Raspberry Pi), dan dashboard monitoring berbasis web/app.
 
 🎨 **Creative & Visual Design**
