@@ -34,8 +34,8 @@ Driven by practical problem-solving across infrastructure and data workflows. Ex
 1. **Network Engineering**  
    Implementasi dan pemeliharaan infrastruktur jaringan, mencakup konfigurasi routing/switching serta sistem pemantauan (monitoring) untuk memastikan stabilitas konektivitas.
 
-2. **RF Engineering**  
-   Perancangan dan pengujian kinerja antena, meliputi proses site survey, fabrikasi, serta evaluasi parameter frekuensi dan impedansi.
+2. **Web Dev**  
+   Pengembangan aplikasi web *end-to-end* dari perancangan hingga *deployment*. Berpengalaman menggunakan **PostgreSQL** & **SQLite**, serta *tech stack* **Python (FastAPI)**, **Go**, dan **JavaScript (Node)** dalam lingkungan yang terkontainerisasi.
 
 3. **IoT Development**  
    Pengembangan sistem otomasi berbasis mikrokontroler, memadukan pembacaan data lingkungan dengan kontrol perangkat keras untuk operasional sistem yang efisien.
